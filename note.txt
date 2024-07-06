@@ -1,0 +1,16 @@
+//connecting  to  a  real  time   database
+
+127.0.0.1 /  localhost
+
+//install  mongoose module
+//  to  connect   programming  lag   to  a  database  u  need   a  driver
+
+
+//project   structuring  
+
+//for  easy  conf 
+// servers  to  read  ans   engines
+
+//schema   structure   of the   data  how  it  will  look  like  
+
+//  enum  in  programming  stands   for   a  collection   of   contsnts

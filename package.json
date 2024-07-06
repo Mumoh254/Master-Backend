@@ -1,0 +1,14 @@
+{
+  "name": "working-with-mongoose",
+  "version": "2.0.0",
+  "description": "working  on  crud  operations  in  node.js  and mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Mumo",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.4.4"
+  }
+}
