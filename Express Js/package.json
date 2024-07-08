@@ -1,0 +1,23 @@
+{
+  "name": "express-js",
+  "version": "4.0.0",
+  "description": "api  development   with  node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mumoh254/Express-Api-Dev.git"
+  },
+  "author": "Peter Mumo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mumoh254/Express-Api-Dev/issues"
+  },
+  "homepage": "https://github.com/Mumoh254/Express-Api-Dev#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.5"
+  }
+}
